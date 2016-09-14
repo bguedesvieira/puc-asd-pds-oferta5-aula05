@@ -1,0 +1,25 @@
+{
+  "name": "crud-livros-ang-materialize",
+  "version": "1.0.0",
+  "description": "PUCMG/IEC/ADS-OF5/PDS/crud utilizando node, angular, mongo e materialize",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "",
+    "express": "",
+    "mongojs": ""
+  },
+  "scripts": {
+    "test": "echo \"Erro: Nenhum teste especificado\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bguedesvieira/puc-asd-pds-oferta5-aula05/crud-livros-ang-materialize"
+  },
+  "author": "Bernardo Guedes Vieira",
+  
+  "bugs": {
+    "url": "https://github.com/bguedesvieira"
+  },
+  "email": "bvieira@gmail.com"
+}
